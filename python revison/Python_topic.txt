@@ -1,0 +1,69 @@
+[# Notes
+# Basic Practice
+# Intermediate Questions
+# Advanced Questions
+# Mistakes
+# Important Points]
+
+
+* Python Introduction & Syntax
+* Variables
+* Data Types
+* Type Casting
+* Input / Output
+* Operators
+* Conditional Statements
+* Loops
+* Strings
+* Lists
+* Tuples
+* Sets
+* Dictionaries
+* Functions
+* Lambda Functions
+* Recursion
+* Scope (Local/Global)
+* map(), filter(), reduce()
+* Modules & Packages
+* File Handling
+* Exception Handling
+* Object Oriented Programming (OOP)
+* Inheritance
+* Polymorphism
+* Encapsulation
+* Abstraction
+* Magic Methods
+* Iterators
+* Generators
+* Decorators
+* Context Managers
+* Regex (Regular Expressions)
+* Collections Module
+* Itertools Module
+* JSON Handling
+* DateTime Module
+* OS & Sys Module
+* Multithreading
+* Multiprocessing
+* Async Programming
+* SQLite with Python
+* API Handling
+* Web Scraping
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Data Cleaning
+* Data Visualization
+* Flask
+* Streamlit
+* Data Structures in Python
+* Searching Algorithms
+* Sorting Algorithms
+* Time Complexity Basics
+* Logging
+* Testing in Python
+* Virtual Environment & Pip
+* Git & GitHub with Python
+* Machine Learning Basics with Python
+* Real World Python Projects
